@@ -1,0 +1,90 @@
+Data Set Description
+=========================================================
+
+The following data items are provided in the tidy data set (tidyData.csv or tidyData.txt).
+
+Test.Subject.Number - The test subject identifier.  A number representing one of the 30 participants.
+Activity.Name - A descriptive name of the activity being performed.  Each test subject performed each of six activities. (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+
+For each measurement a 3-axial linear acceleration and 3-axial angular velocity were recorded. The X, Y and Z indicators for each data set identify the direction of the measurement.
+All measures are recorded in Hz (hertz).
+
+Time Signal Body Accelerometer Mean X Direction -  Average of the mean body acceleration as measured for the X Direction
+Time Signal Body Accelerometer Mean Y Direction -  Average of the mean body acceleration as measured for the Y Direction
+Time Signal Body Accelerometer Mean Z Direction -  Average of the mean body acceleration as measured for the Z Direction
+Time Signal Body Accelerometer Standard Deviation X Direction -  Average of the standard deviation of body acceleration as measured for the X Direction
+Time Signal Body Accelerometer Standard Deviation Y Direction -  Average of the standard deviation of body acceleration as measured for the Y Direction
+Time Signal Body Accelerometer Standard Deviation Z Direction -  Average of the standard deviation of body acceleration as measured for the Z Direction
+Time Signal Gravity Accelerometer Mean X Direction -  Average of the mean gravity acceleration as measured for the X Direction 
+Time Signal Gravity Accelerometer Mean Y Direction -  Average of the mean gravity acceleration as measured for the Y Direction 
+Time Signal Gravity Accelerometer Mean Z Direction -  Average of the mean gravity acceleration as measured for the Z Direction 
+Time Signal Gravity Accelerometer Standard Deviation X Direction -  Average of the standard deviation of gravity acceleration as measured for the X Direction
+Time Signal Gravity Accelerometer Standard Deviation Y Direction -  Average of the standard deviation of gravity acceleration as measured for the Y Direction
+Time Signal Gravity Accelerometer Standard Deviation Z Direction -  Average of the standard deviation of gravity acceleration as measured for the Z Direction
+Time Signal Body Accelerometer Jerk Mean X Direction -  Average of the mean derived accelerometer jerk as measured for the X Direction
+Time Signal Body Accelerometer Jerk Mean Y Direction -  Average of the mean derived accelerometer jerk as measured for the Y Direction
+Time Signal Body Accelerometer Jerk Mean Z Direction -  Average of the mean derived accelerometer jerk as measured for the Z Direction
+Time Signal Body Accelerometer Jerk Standard Deviation X Direction -  Average of the standard deviation of jerk signals as measured for the X Direction
+Time Signal Body Accelerometer Jerk Standard Deviation Y Direction -  Average of the standard deviation of jerk signals as measured for the Y Direction
+Time Signal Body Accelerometer Jerk Standard Deviation Z Direction -  Average of the standard deviation of jerk signals as measured for the Z Direction
+Time Signal Body Gyroscope Mean X Direction -  Average of the mean body gyroscope as measured for the X Direction
+Time Signal Body Gyroscope Mean Y Direction -  Average of the mean body gyroscope as measured for the Y Direction
+Time Signal Body Gyroscope Mean Z Direction -  Average of the mean body gyroscope as measured for the Z Direction
+Time Signal Body Gyroscope Standard Deviation X Direction -  Average of the standard deviation of the body gyroscope as measured for the X Direction
+Time Signal Body Gyroscope Standard Deviation Y Direction -  Average of the standard deviation of the body gyroscope as measured for the Y Direction
+Time Signal Body Gyroscope Standard Deviation Z Direction -  Average of the standard deviation of the body gyroscope as measured for the Z Direction
+Time Signal Body Gyroscope Jerk Mean X Direction -  Average of the mean derived gyroscope jerk as measured for the X Direction
+Time Signal Body Gyroscope Jerk Mean Y Direction -  Average of the mean derived gyroscope jerk as measured for the Y Direction
+Time Signal Body Gyroscope Jerk Mean Z Direction -  Average of the mean derived gyroscope jerk as measured for the Z Direction
+Time Signal Body Gyroscope Jerk Standard Deviation X Direction -  Average of the standard deviation of the derived gyroscope jerk as measured for the X Direction
+Time Signal Body Gyroscope Jerk Standard Deviation Y Direction -  Average of the standard deviation of the derived gyroscope jerk as measured for the Y Direction
+Time Signal Body Gyroscope Jerk Standard Deviation Z Direction -  Average of the standard deviation of the derived gyroscope jerk as measured for the Z Direction
+Time Signal Body Accelerometer Magnitude Mean -  Average of the mean body acceleration's magnitude
+Time Signal Body Accelerometer Magnitude Standard Deviation -  Average of the standard deviation of the body acceleration's magnitude
+Time Signal Gravity Accelerometer Magnitude Mean -  Average of the body's gravity magnitude
+Time Signal Gravity Accelerometer Magnitude Standard Deviation -  Average of the standard deviation of the body's gravity magnitude
+Time Signal Body Accelerometer Jerk Magnitude Mean -  Average of the body's acceleration derived jerk means magnitude
+Time Signal Body Accelerometer Jerk Magnitude Standard Deviation -  Average of the body's acceleration derived jerk magnitude standard deviation
+Time Signal Body Gyroscope Magnitude Mean -  Average of the body gyroscope mean magnitude
+Time Signal Body Gyroscope Magnitude Standard Deviation -  Average of the body gyroscope standard deviation magnitude
+Time Signal Body Gyroscope Jerk Magnitude Mean -  Average of the body's gyroscope derived jerk mean magnitude
+Time Signal Body Gyroscope Jerk Magnitude Standard Deviation -  Average of the body's gyroscope derived jerk standard deviation magnitude
+FFT Body Accelerometer Mean X Direction-  Average of the FFT mean body acceleration as measured for the X Direction
+FFT Body Accelerometer Mean Y Direction-  Average of the FFT mean body acceleration as measured for the Y Direction
+FFT Body Accelerometer Mean Z Direction-  Average of the FFT mean body acceleration as measured for the Z Direction
+FFT Body Accelerometer Standard Deviation X Direction-  Average of the FFT standard deviation of body acceleration as measured for the X Direction
+FFT Body Accelerometer Standard Deviation Y Direction-  Average of the FFT standard deviation of body acceleration as measured for the Y Direction
+FFT Body Accelerometer Standard Deviation Z Direction-  Average of the FFT standard deviation of body acceleration as measured for the Z Direction
+FFT Body Accelerometer Mean Frequency X Direction-  Average of the FTT mean frequency of acceleration as measured for the X Direction 
+FFT Body Accelerometer Mean Frequency Y Direction-  Average of the FTT mean frequency of acceleration as measured for the Y Direction 
+FFT Body Accelerometer Mean Frequency Z Direction-  Average of the FTT mean frequency of acceleration as measured for the Z Direction 
+FFT Body Accelerometer Jerk Mean X Direction-  Average of the FFT mean derived accelerometer jerk as measured for the X Direction
+FFT Body Accelerometer Jerk Mean Y Direction-  Average of the FFT mean derived accelerometer jerk as measured for the Y Direction
+FFT Body Accelerometer Jerk Mean Z Direction-  Average of the FFT mean derived accelerometer jerk as measured for the Z Direction
+FFT Body Accelerometer Jerk Standard Deviation X Direction-  Average of the FFT standard deviation of jerk signals as measured for the X Direction
+FFT Body Accelerometer Jerk Standard Deviation Y Direction-  Average of the FFT standard deviation of jerk signals as measured for the Y Direction
+FFT Body Accelerometer Jerk Standard Deviation Z Direction-  Average of the FFT standard deviation of jerk signals as measured for the Z Direction
+FFT Body Accelerometer Jerk Mean Frequency X Direction-  Average of the FFT mean frequency of derived accelerometer jerk as measured for the X Direction
+FFT Body Accelerometer Jerk Mean Frequency Y Direction-  Average of the FFT mean frequency of derived accelerometer jerk as measured for the Y Direction
+FFT Body Accelerometer Jerk Mean Frequency Z Direction-  Average of the FFT mean frequency of derived accelerometer jerk as measured for the Z Direction
+FFT Body Gyroscope Mean X Direction-  Average of the FFT mean body gyroscope as measured for the X Direction
+FFT Body Gyroscope Mean Y Direction-  Average of the FFT mean body gyroscope as measured for the Y Direction
+FFT Body Gyroscope Mean Z Direction-  Average of the FFT mean body gyroscope as measured for the Z Direction
+FFT Body Gyroscope Standard Deviation X Direction-  Average of the FFT standard deviation of the body gyroscope as measured for the X Direction
+FFT Body Gyroscope Standard Deviation Y Direction-  Average of the FFT standard deviation of the body gyroscope as measured for the Y Direction
+FFT Body Gyroscope Standard Deviation Z Direction-  Average of the FFT standard deviation of the body gyroscope as measured for the Z Direction
+FFT Body Gyroscope Mean Frequency X Direction-  Average of the FFT mean frequency of gyroscope as measured for the X Direction
+FFT Body Gyroscope Mean Frequency Y Direction-  Average of the FFT mean frequency of gyroscope as measured for the Y Direction
+FFT Body Gyroscope Mean Frequency Z Direction-  Average of the FFT mean frequency of gyroscope as measured for the Z Direction
+FFT Body Accelerometer Magnitude Mean-  Average of the FFT mean body acceleration's magnitude
+FFT Body Accelerometer Magnitude Standard Deviation-  Average of the FFT standard deviation of the body acceleration's magnitude
+FFT Body Accelerometer Magnitude Mean Frequency-  Average of the FFT mean frequency of the body acceleration's magnitude
+FFT Body Accelerometer Jerk Magnitude Mean-  Average of the FFT derived mean body acceleration jerk magnitude
+FFT Body Accelerometer Jerk Magnitude Standard Deviation-  Average of the FFT derived standard deviation of the body acceleration jerk magnitude
+FFT Body Accelerometer Jerk Magnitude Mean Frequency-  Average of the FFT derived mean frequency of the body acceleration jerk magnitude
+FFT Body Gyroscope Magnitude Mean-  Average of the FFT body gyroscope mean magnitude
+FFT Body Gyroscope Magnitude Standard Deviation-  Average of the FFT body gyroscope standard deviation magnitude
+FFT Body Gyroscope Magnitude Mean Frequency-  Average of the FFT body gyroscope mean magnitude
+FFT Body Gyroscope Jerk Magnitude Mean-  Average of the FTT calculation of the body's gyroscope derived jerk mean magnitude
+FFT Body Gyroscope Jerk Magnitude Standard Deviation-  Average of the FTT calculation of the body's gyroscope derived jerk standard deviation magnitude
+FFT Body Gyroscope Jerk Magnitude Mean Frequency-  Average of the FTT frequency of the calculation of the body's gyroscope derived jerk standard deviation magnitude
